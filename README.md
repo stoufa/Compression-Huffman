@@ -1,6 +1,8 @@
 # Compression-Huffman
 Implémentation de l'algorithme de compression de Huffman en Java
 
+![preview](https://raw.githubusercontent.com/stoufa/Compression-Huffman/master/compression-huffman.gif)
+
 Il s'agit de l'implémentation en Java de l'algorithme de compression du texte de Huffman.
 Le processus de compression passe par la construction de l'arbre de codage, l'utiliser pour générer un code qui raccourcit les codes des caractères les plus fréquents du texte et le codage du texte.
 
