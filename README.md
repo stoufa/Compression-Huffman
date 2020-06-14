@@ -34,4 +34,13 @@ Le processus de compression passe par la construction de l'arbre de codage, l'ut
   <img src="https://raw.githubusercontent.com/stoufa/Compression-Huffman/master/screenshots/4.png" alt="screenshot"/>
 </p>
 
+<hr>
+
+<img src="https://emojis.slackmojis.com/emojis/images/1485555744/1681/bitcoin.png" valign="middle" width="40" /> &nbsp; If you found this helpful, consider helping me by sending some Bitcoins to the following address. Thank you 😊
+
+<pre align="center">
+15m4Prjz4WLSsCgBcZTa62cUetiwo6sZKg
+</pre>
+
+
 
